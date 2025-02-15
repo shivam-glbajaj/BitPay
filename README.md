@@ -37,4 +37,4 @@ License
 Coin Trust is licensed under the MIT License.
 
 Support
-For support or inquiries, please contact us at krishanjha80@gmail.com
+For support or inquiries, please contact us at cse22182@glbitm.ac.in
