@@ -23,7 +23,7 @@ Consensus Mechanisms: Consensus mechanism Proof of Work (PoW) ensures agreement 
 Node.js: Node.js is used to create the server.
 Installation
 Clone the Coin Trust repository from GitHub:
-git clone https://github.com/jhakrishan20/Blockchain-Application-Coin-Trust-.git
+git clone https://github.com/shivam-glbaja/Blockchain-Application-Coin-Trust-.git
 Install dependencies using npm:
 npm install
 Run the application:
